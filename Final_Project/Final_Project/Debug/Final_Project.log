@@ -1,0 +1,13 @@
+﻿  Source.cpp
+U:\Work Space\Final_Project\Final_Project\Source.cpp(334,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Work Space\Final_Project\Final_Project\Source.cpp(401,18): warning C4305: 'return': truncation from 'int' to 'bool'
+U:\Work Space\Final_Project\Final_Project\Source.cpp(443,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Work Space\Final_Project\Final_Project\Source.cpp(444,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Work Space\Final_Project\Final_Project\Source.cpp(448,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Work Space\Final_Project\Final_Project\Source.cpp(449,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+U:\Work Space\Final_Project\Final_Project\Source.cpp(451,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Work Space\Final_Project\Final_Project\Source.cpp(452,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+U:\Work Space\Final_Project\Final_Project\Source.cpp(807,69): warning C4305: 'argument': truncation from 'double' to 'float'
+U:\Work Space\Final_Project\Final_Project\Source.cpp(817,68): warning C4305: 'argument': truncation from 'double' to 'float'
+U:\Work Space\Final_Project\Final_Project\Source.cpp(828,69): warning C4305: 'argument': truncation from 'double' to 'float'
+  Final_Project.vcxproj -> U:\Work Space\Final_Project\Debug\Final_Project.exe
